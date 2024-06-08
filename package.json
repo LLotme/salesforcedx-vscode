@@ -9,7 +9,7 @@
     "node": ">=18.11.0"
   },
   "dependencies": {
-    "node": "^18.11.0",
+    "node": "^18.20.2",
     "npm": "^9",
     "ts-node": "10.9.1",
     "@actions/core": "^1.10.0",
